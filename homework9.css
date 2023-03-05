@@ -1,0 +1,81 @@
+.satauri {
+    font-weight: 700px;
+    margin-left: 430px;
+    width: 494px;
+    height: 19px;
+    top: 30px;
+    font-size: 20px;
+    line-height: 24px;
+}
+.p1 {
+    margin-left: 431px;
+    width: 578px;
+    height: 158px;
+    top: 61px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+}
+.satauri2 {
+    font-weight: 700px;
+    margin-left: 41px;
+    font-size: 20px;
+    line-height: 24px;
+    width: 494px;
+    height: 19px;
+    top: 276px;
+}
+.p2 {
+    margin-left: 42px;
+    top: 607px;
+    width: 578px;
+    height: 167px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+.satauri3 {
+    font-weight: 700px;
+    margin-left: 818px;
+    font-style: 20px;
+    line-height: 24px;
+    width: 494px;
+    height: 19px;
+    top: 498px;
+}
+.p3 {
+    margin-left: 819px;
+    width: 578px;
+    height: 167px;
+    top: 529px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+}
+.satauri4 {
+    font-weight: 700;
+    margin-left: 41px;
+    font-size: 20px;
+    line-height: 24px;
+    width: 494px;
+    height: 19px;
+    top: 852px;
+}
+.p4 {
+    margin-left: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    width: 1355px;
+    height: 314px;
+    top: 883px;
+    
+}
+hr {
+    width: 1356px;
+    height: 0px;
+    left: 41px;
+    top: 795px;
+    color: #dfdfdf;
+
+}
